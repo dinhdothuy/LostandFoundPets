@@ -27,9 +27,9 @@ apiRoutes.js => uses the pets.js in models to convert data types and send to the
 
 
 
-### Project2-Team3
+### App Details:
 
-Project 2 Requirements: 
+Requirements: 
 
 Use a Node and Express Web Server;
 
